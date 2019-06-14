@@ -1,0 +1,6 @@
+C:\Users\THGEVER\Documents\SharpDevelop Projects\CadastrodeMédias\CadastrodeMédias\obj\Debug\CadastrodeMédias.csprojResolveAssemblyReference.cache
+C:\Users\THGEVER\Documents\SharpDevelop Projects\CadastrodeMédias\CadastrodeMédias\bin\Debug\CadastrodeMédias.exe.config
+C:\Users\THGEVER\Documents\SharpDevelop Projects\CadastrodeMédias\CadastrodeMédias\bin\Debug\CadastrodeMédias.exe
+C:\Users\THGEVER\Documents\SharpDevelop Projects\CadastrodeMédias\CadastrodeMédias\bin\Debug\CadastrodeMédias.pdb
+C:\Users\THGEVER\Documents\SharpDevelop Projects\CadastrodeMédias\CadastrodeMédias\obj\Debug\CadastrodeMédias.exe
+C:\Users\THGEVER\Documents\SharpDevelop Projects\CadastrodeMédias\CadastrodeMédias\obj\Debug\CadastrodeMédias.pdb
